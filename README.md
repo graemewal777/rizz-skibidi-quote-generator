@@ -1,0 +1,1 @@
+# rizz-skibidi-quote-generator
